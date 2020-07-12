@@ -1,3 +1,3 @@
 # Kubernetes Advanced Practical
 
-《Kubernetes进阶实战》一书中的配置清单示例源码,dunjin修改-------。
+《Kubernetes进阶实战》一书中的配置清单示例源码,dunjin修改qqqqqqq。
